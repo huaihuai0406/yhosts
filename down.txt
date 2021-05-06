@@ -1,4 +1,4 @@
-@down
+#@down
 #down-2345
 127.0.0.1 dl.2345.com
 127.0.0.1 download.2345.com
@@ -31,7 +31,7 @@
 127.0.0.1 c.gj.qq.com
 127.0.0.1 t.sj.qq.com
 127.0.0.1 ws.sj.qq.com
-@down/virus
+#@down/virus
 #dabaicai
 127.0.0.1 www.winbaicai.com
 127.0.0.1 down.winbaicai.com

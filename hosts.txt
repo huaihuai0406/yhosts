@@ -1,5 +1,5 @@
 #version: 202104181110
-@direct/1os
+#@direct/1os
 #-----Test
 #阻止苏宁小店下载
 127.0.0.1 at.umeng.com
@@ -51,7 +51,7 @@
 ::1             ip6-localhost
 #miwifi
 127.0.0.1 XiaoQiang
-@direct/official
+#@direct/official
 #Flash
 127.0.0.1 geo2.adobe.com
 127.0.0.1 flash.2144.com
@@ -377,7 +377,7 @@
 127.0.0.1 ope.tanx.com
 127.0.0.1 rdstat.tanx.com
 127.0.0.1 toruk.tanx.com
-@cps-taobao-simba
+#@cps-taobao-simba
 127.0.0.1 click.mz.simba.taobao.com
 127.0.0.1 click.tz.simba.taobao.com
 127.0.0.1 dsp.simba.taobao.com
@@ -737,7 +737,7 @@
 127.0.0.1 zvs2.cnzz.com
 #cnzz.net
 127.0.0.1 pcookie.cnzz.net
-@cps-shopping
+#@cps-shopping
 127.0.0.1 aos.prf.hn
 127.0.0.1 click.lergao.com
 127.0.0.1 click.linktech.cn
@@ -1262,7 +1262,7 @@
 127.0.0.1 dai.shuzilm.cn
 127.0.0.1 stream.shuzilm.cn
 127.0.0.1 www.shuzilm.cn
-@cps-taobao-click
+#@cps-taobao-click
 127.0.0.1 click.simba.taobao.com
 127.0.0.1 ju.taobao.com
 127.0.0.1 tejia.taobao.com
@@ -1274,13 +1274,13 @@
 127.0.0.1 s.click.tmall.com
 127.0.0.1 temai.m.taobao.com
 127.0.0.1 jx.tmall.com
-@cps-jd
+#@cps-jd
 127.0.0.1 ccc.x.jd.com
 127.0.0.1 click.jr.jd.com
 127.0.0.1 img.x.jd.com
 127.0.0.1 jrclick.jd.com
 127.0.0.1 stat.m.jd.com
-@errorpage/click
+#@errorpage/click
 127.0.0.1 go.fcwr8.com
 127.0.0.1 pro.yyhudong.com
 127.0.0.1 marketres.feidee.com
@@ -1289,14 +1289,14 @@
 127.0.0.1 dorado.xiaojukeji.com
 127.0.0.1 activity.tuiapple.com
 127.0.0.1 apple.pvxt.net
-@errorpage/weixin
+#@errorpage/weixin
 127.0.0.1 vzan.com
 127.0.0.1 wx.shunliandongli.com
 #www.youzan.com
 127.0.0.1 tj.koudaitong.com
 #yy
 127.0.0.1 ppiy.v5.yy.com
-@errorpage/inside
+#@errorpage/inside
 127.0.0.1 activity.m.duiba.com.cn
 127.0.0.1 embedlog.duiba.com.cn
 127.0.0.1 yun.duiba.com.cn
@@ -1306,13 +1306,13 @@
 127.0.0.1 log.ttjx.tatagou.com.cn
 127.0.0.1 ttg.cdn.suanzi.cn
 127.0.0.1 s.youzhuanhua.com
-@errorpage/daohang
+#@errorpage/daohang
 127.0.0.1 www.2345.com
 127.0.0.1 www.hao123.com
 127.0.0.1 m.hao123.com
 127.0.0.1 vs12.bj.u3.ucweb.com
 127.0.0.1 yeah.qq.com
-@errorpage/sns
+#@errorpage/sns
 127.0.0.1 www.saxmcu.cn
 127.0.0.1 ndyjs.xjtu.edu.cn
 127.0.0.1 tw.find2c.com
@@ -1346,7 +1346,7 @@
 127.0.0.1 lp.tantanapp.com
 127.0.0.1 apk-ssl.tancdn.com
 127.0.0.1 tantanapp.com
-@down
+#@down
 #down-2345
 127.0.0.1 dl.2345.com
 127.0.0.1 download.2345.com
@@ -1379,7 +1379,7 @@
 127.0.0.1 c.gj.qq.com
 127.0.0.1 t.sj.qq.com
 127.0.0.1 ws.sj.qq.com
-@down/virus
+#@down/virus
 #dabaicai
 127.0.0.1 www.winbaicai.com
 127.0.0.1 down.winbaicai.com
@@ -1405,7 +1405,7 @@
 127.0.0.1 mackeeper.com
 127.0.0.1 mackeeperapp.mackeeper.com
 127.0.0.1 static.mackeeper.com
-@android
+#@android
 #ali-yunos
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
@@ -1527,7 +1527,7 @@
 127.0.0.1 data.ads.oppomobile.com
 #xgimi
 127.0.0.1 analytics.xgimi.com
-@app-browser
+#@app-browser
 #http://app.2345.com/mob.htm
 127.0.0.1 houtai.2345.com
 #http://browser.lenovo.com/
@@ -1673,7 +1673,7 @@
 127.0.0.1 ad.yeshitv.com
 #http://www.hdplive.net/
 127.0.0.1 ad.vryeye.com
-@cibn
+#@cibn
 #cibntv.net
 127.0.0.1 api.adv.ott.cibntv.net
 #http://tv.sohu.com/ott/sohutv/
@@ -7837,7 +7837,7 @@
 127.0.0.1 zzsdtzb.com
 127.0.0.1 zzy.mipujia.com
 127.0.0.1 zzy1.mipujia.com
-@site-us
+#@site-us
 #abcnews
 127.0.0.1 adsatt.abcnews.starwave.com
 127.0.0.1 adsatt.disney.starwave.com
@@ -8058,7 +8058,7 @@
 127.0.0.1 snap.snapmobile.asia
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 adx.adxglobal.com
-@hijack/operators
+#@hijack/operators
 #10000
 127.0.0.1 daohang.114so.cn
 127.0.0.1 www.114so.cn
@@ -8135,24 +8135,24 @@
 127.0.0.1 nfdnserror17.wo.com.cn
 #10086
 127.0.0.1 hivedata.cc
-@hijack/apk-down
+#@hijack/apk-down
 127.0.0.1 m.kubiqq.com
-@hijack/domain
+#@hijack/domain
 127.0.0.1 offline-adv.oray.com
-@hijack/homepage
+#@hijack/homepage
 127.0.0.1 hao.qquu8.com
 127.0.0.1 hao549.com
 127.0.0.1 www.i1236.net
 127.0.0.1 hk.jtsh123.com
 127.0.0.1 hao.7654.com
-@hijack/netbar
+#@hijack/netbar
 127.0.0.1 api.g1.junfull.com
 127.0.0.1 api.g2.junfull.com
 127.0.0.1 abc.xtyx918.com
 127.0.0.1 p.sdu8cvc.com
 127.0.0.1 n.a.mosenni.com
 127.0.0.1 gamead.swjoy.com
-@hijack/wifi
+#@hijack/wifi
 127.0.0.1 c.minisplat.cn
 127.0.0.1 c1.minisplat.cn
 127.0.0.1 l.minisplat.cn
@@ -8296,10 +8296,10 @@
 127.0.0.1 c.ningmengnm.cn
 127.0.0.1 4336wang.cn
 127.0.0.1 pic.bdyxzx.com
-@hijack/x-router
+#@hijack/x-router
 127.0.0.1 info.yitsoftware.com
-@popup
-@union-cn
+#@popup
+#@union-cn
 #163
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
@@ -8417,7 +8417,7 @@
 127.0.0.1 duapps.com
 127.0.0.1 ad.duapps.com
 127.0.0.1 api.mobula.sdk.duapps.com
-@union-cn-plus
+#@union-cn-plus
 #001union
 127.0.0.1 jump.001union.com
 127.0.0.1 jump.baidu.001union.com
@@ -9522,7 +9522,7 @@
 127.0.0.1 www.zhidian3g.cn
 #zhiziyun.com
 127.0.0.1 cm.zhiziyun.com
-@union-en
+#@union-en
 #ad-survey.com
 127.0.0.1 sspservice.ad-survey.com
 127.0.0.1 tracking.ad-survey.com
@@ -10053,7 +10053,7 @@
 127.0.0.1 c.adsco.re
 127.0.0.1 www.jazdoxthxiv.com
 127.0.0.1 www.jwmwtcmexc.com
-@site-foregin/adult
+#@site-foregin/adult
 #91porn.com
 127.0.0.1 fans.bestvogue.com
 #hk01.com
@@ -10061,20 +10061,20 @@
 #pronhub.com
 127.0.0.1 rad.reporo.net
 127.0.0.1 ads.traffichunt.com
-@site-foregin/news
+#@site-foregin/news
 #m.cn.rfi.fr
 127.0.0.1 nexus.ensighten.com
 #m.cn.nytimes.com
 127.0.0.1 beacon.krxd.net
 127.0.0.1 cdn.krxd.net
-@site-foregin/sns
+#@site-foregin/sns
 #wp.com
 127.0.0.1 stats.wp.com
-@site-foregin/tools
+#@site-foregin/tools
 #pingdom
 127.0.0.1 rum-collector.pingdom.net
 127.0.0.1 rum-static.pingdom.net
-@site-foregin/down
+#@site-foregin/down
 #mac-torrent-download.net
 127.0.0.1 inclk.com
 127.0.0.1 p215223.inclk.com
@@ -10096,13 +10096,13 @@
 127.0.0.1 static.addtoany.com
 127.0.0.1 pl14369502.puserving.com
 127.0.0.1 ie8eamus.com
-@site-foregin/union
+#@site-foregin/union
 #aol-cn.engadget.com
 127.0.0.1 adinfo.aol.com
 127.0.0.1 cdn.komentary.aol.com
 127.0.0.1 cdn.at.atwola.com
 127.0.0.1 cdn.atwola.com
-@union-jp
+#@union-jp
 #ad-stir
 127.0.0.1 ad-stir.com
 127.0.0.1 ad.ad-stir.com
@@ -10141,11 +10141,11 @@
 127.0.0.1 img1.nend.net
 127.0.0.1 js1.nend.net
 127.0.0.1 output.nend.net
-@union-india
+#@union-india
 #yengo
 127.0.0.1 st.yengo.com
 127.0.0.1 www.yengo.com
-@union-ru
+#@union-ru
 #adriver.ru
 127.0.0.1 ad.adriver.ru
 127.0.0.1 content.adriver.ru
