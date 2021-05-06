@@ -1,6 +1,3 @@
-#version: 202104181130
-#url=https://github.com/VeleSila/yhosts/blob/master/hosts
-#-----Test
 127.0.0.1 adfurikun.jp
 127.0.0.1 aag.yahooapis.jp
 127.0.0.1 optimus-ads.amap.com
@@ -30,7 +27,6 @@
 127.0.0.1 htracker4.zmzfile.com
 127.0.0.1 htracker5.zmzfile.com
 127.0.0.1 file.apicvn.com
-#-----Test End
 127.0.0.1 ereg.adobe.com
 127.0.0.1 hlrcv.stage.adobe.com
 127.0.0.1 lm.licenses.adobe.com
@@ -1109,9 +1105,7 @@
 127.0.0.1 stream.shuzilm.cn
 127.0.0.1 www.shuzilm.cn
 255.255.255.255	broadcasthost
-::1             localhost
 127.0.0.1 localhost
-::1             ip6-localhost
 127.0.0.1 XiaoQiang
 127.0.0.1 geo2.adobe.com
 127.0.0.1 flash.2144.com
@@ -4634,7 +4628,6 @@
 127.0.0.1 log.orchidscape.net
 127.0.0.1 lol.pnhfc.com
 127.0.0.1 loldy.jiangmg.com
- 127.0.0.1 lp7n.cy6px.com
 127.0.0.1 lq0s3c.cn
 127.0.0.1 lskwsx.m.zwdu.com
 127.0.0.1 lu.w3vj.cn
@@ -5858,19 +5851,6 @@
 127.0.0.1 p6.95558000.com
 127.0.0.1 p7.95558000.com
 127.0.0.1 p8.95558000.com
-#127.0.0.1 p1.pstatp.com
-#127.0.0.1 p2.pstatp.com
-#127.0.0.1 p3.pstatp.com
-#127.0.0.1 p4.pstatp.com
-#127.0.0.1 p5.pstatp.com
-#127.0.0.1 p6.pstatp.com
-#127.0.0.1 p7.pstatp.com
-#127.0.0.1 p8.pstatp.com
-#127.0.0.1 p9.pstatp.com
-#127.0.0.1 p10.pstatp.com
-#127.0.0.1 pb1.pstatp.com
-#127.0.0.1 pb2.pstatp.com
-#127.0.0.1 pb3.pstatp.com
 127.0.0.1 package.minghui.org
 127.0.0.1 paflibnq.mamiyue.com.cn
 127.0.0.1 pad.zhywyl.cn
